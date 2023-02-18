@@ -7,8 +7,8 @@ zip: '1800'
 street: Avenue de la Prairie 24
 country_code: CH
 state_code: VD
-latitude: 46.461281
-longitude: 6.858913
+latitude: 46.459064
+longitude: 6.853667
 founded: 2020-11-09
 email: info@fablab-riviera.ch
 website: https://fablab-riviera.ch/
@@ -18,8 +18,8 @@ twitter: FablabRiviera
 # twitter_filter: ' #FablabBB' #optional hashtag which needs to be in content to consider post
 lang: FR, EN, DE, SP
 members: '50'
-fablabsio: 
-events_ics: https://calendar.google.com/calendar/ical/pr7lpgci16efk9e64pp6l0cpdc%40group.calendar.google.com/public/basic.ics
+fablabsio: fablabrivierach
+events_ics: webcal://calendar.clubdesk.com/clubdesk/ical/41979/1000114/TUMwQ0ZRQ1U0Q1Bhd3AyczdwbzlWQTBJRTVDUTVidlpFZ0lVWklGN0FSUU05a2p4RDZMcUNJYVJWVWtmYitFPQ/basic.ics
 #events_ics_filter: '#\w*' # optional regex to filter posts
 machines:
 - ref: Speedy 300
