@@ -18,8 +18,8 @@ twitter: FablabRiviera
 # twitter_filter: ' #FablabBB' #optional hashtag which needs to be in content to consider post
 lang: FR, EN, DE, SP
 members: '50'
-fablabsio: 
-events_ics: https://calendar.google.com/calendar/ical/pr7lpgci16efk9e64pp6l0cpdc%40group.calendar.google.com/public/basic.ics
+fablabsio: fablabrivierach
+events_ics: 
 #events_ics_filter: '#\w*' # optional regex to filter posts
 machines:
 - ref: Speedy 300
